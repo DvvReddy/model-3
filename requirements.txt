@@ -1,5 +1,6 @@
-python
-matplotlib.pyplot
-seaborn
-
+streamlit
 pandas
+numpy
+scikit-learn
+xgboost
+joblib
